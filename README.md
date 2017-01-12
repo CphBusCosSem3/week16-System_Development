@@ -1,7 +1,7 @@
 #Uge 21 - System Development
 
 ##Mandag - 22.05.2017
-[Comparison of methods](https://github.com/CphBusCosSem3/week16-System_Development/blob/master/Comparison%20of%20methods)
+[Comparison of methods](Comparison_of_methods.md)
 
 **Know**
 - characteristics of different classes of software development processes
@@ -9,7 +9,7 @@
 **Be able to**
 - compare XP, Scrum and UP on central aspects
 
-[Areas of knowledge and Experiments](https://github.com/CphBusCosSem3/week16-System_Development/blob/master/Areas%20of%20knowledge_and_Experiments.md)
+[Areas of knowledge and Experiments](Areas_of_knowledge_and_Experiments.md)
 
 **Know**
 - the difference between concrete and abstract knowledge
@@ -21,7 +21,7 @@
 - relate various areas of knowledge to activities in 
 
 ##Tirsdag - 23.05.2017
-[Choice of methods](https://github.com/CphBusCosSem3/week16-System_Development/blob/master/Choice_of_methods.md)
+[Choice of methods](Choice_of_methods.md)
 
 **Know**
 - important criterias to apply when selecting software development method
