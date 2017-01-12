@@ -1,7 +1,7 @@
 #Uge 21 - System Development
 
 ##Mandag - 22.05.2017
-![Comparison of methods](https://github.com/CphBusCosSem3/week16-System_Development/blob/master/Comparison%20of%20methods)
+[Comparison of methods](https://github.com/CphBusCosSem3/week16-System_Development/blob/master/Comparison%20of%20methods)
 
 **Know**
 - characteristics of different classes of software development processes
