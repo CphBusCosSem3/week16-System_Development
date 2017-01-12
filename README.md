@@ -10,6 +10,7 @@
 - compare XP, Scrum and UP on central aspects
 
 [Areas of knowledge and Experiments](https://github.com/CphBusCosSem3/week16-System_Development/blob/master/Areas%20of%20knowledge_and_Experiments.md)
+
 **Know**
 - the difference between concrete and abstract knowledge
 - how co-operation with end users can benefit when seeking knowledge in specific areas
