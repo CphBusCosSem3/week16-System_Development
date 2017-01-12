@@ -22,6 +22,7 @@
 
 ##Tirsdag - 23.05.2017
 [Choice of methods](https://github.com/CphBusCosSem3/week16-System_Development/blob/master/Choice_of_methods.md)
+
 **Know**
 - important criterias to apply when selecting software development method
 - possible and appropprate ways to adjust established methods to specific situations
