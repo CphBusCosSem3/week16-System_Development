@@ -8,3 +8,8 @@
 **Be able to**
 * assess the importance of having knowledge in various areas
 * relate various areas of knowledge to activities in
+
+#Resources
+Kensing and Munk-Madsen: Structure in the Toolbox
+
+Suplerende: Thorshøj: Eksperimenter i systemudvikling
