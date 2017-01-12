@@ -6,5 +6,5 @@
 
 #Resources
 
-Boehm - “Rebalancing Your Organization’s Agility and Discipline”
-Ambler: Skinnier RUP http://www.drdobbs.com/skinnier-rup/184415143?cid=Ambysoft
+* Boehm - “Rebalancing Your Organization’s Agility and Discipline”
+* Ambler: Skinnier RUP http://www.drdobbs.com/skinnier-rup/184415143?cid=Ambysoft
