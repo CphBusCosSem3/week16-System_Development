@@ -1,7 +1,6 @@
 #Uge 21 - System Development
 
-##Mandag - 22.05.2017
-[Comparison of methods](Comparison_of_methods.md)
+##[Comparison of methods](Comparison_of_methods.md) - Mandag - 22.05.2017
 
 **Know**
 - characteristics of different classes of software development processes
@@ -20,8 +19,7 @@
 - assess the importance of having knowledge in various areas
 - relate various areas of knowledge to activities in 
 
-##Tirsdag - 23.05.2017
-[Choice of methods](Choice_of_methods.md)
+##[Choice of methods](Choice_of_methods.md) - Tirsdag - 23.05.2017
 
 **Know**
 - important criterias to apply when selecting software development method
