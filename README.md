@@ -8,7 +8,7 @@
 **Be able to**
 - compare XP, Scrum and UP on central aspects
 
-##[Areas of knowledge and Experiments](Areas_of_knowledge_and_Experiments.md)
+##[Areas of knowledge and Experiments](Areas_of_knowledge_and_Experiments.md) - Mandag - 22.05.2017
 
 **Know**
 - the difference between concrete and abstract knowledge
